@@ -95,63 +95,79 @@ Tất cả các khối chức năng đều có thể điều khiển từ xa th�
 
 ## 6. Cấu trúc folder dự án
 
-|data
+│
 
-|  |emqx_ca.crt
+├─ data/
 
-|image
+│   └─ emqx_ca.crt
 
-|  |system.png
+│
 
-|  |dashboard.png
+├─ images/
 
-|include
+│   ├─ system.png
 
-|  |cert.h
+│   └─ dashboard.png
 
-|  |Temp.h
+│
 
-|  |Smoke.h
+├─ include/
 
-|  |RFID.h
+│   ├─ cert.h
 
-|  |Moisture.h
+│   ├─ Temp.h
 
-|  |MqttManager.h
+│   ├─ Smoke.h
 
-|Library
+│   ├─ RFID.h
 
-|  |Necessary_library.txt
+│   ├─ Moisture.h
 
-|node-red_flow
+│   └─ MqttManager.h
 
-|  |Smoke.txt
+│
 
-|  |Temp.txt
+├─ Library/
 
-|  |RFID.txt
+│   └─ Necessary_library.txt
 
-|  |Moisture.txt
+│
 
-|src
+├─ node-red_flow/
 
-|  |cert.cpp
+│   ├─ Smoke.txt
 
-|  |Temp.cpp
+│   ├─ Temp.txt
 
-|  |Smoke.cpp
+│   ├─ RFID.txt
 
-|  |RFID.cpp
+│   └─ Moisture.txt
 
-|  |Moisture.cpp
+│
 
-|  |MqttManager.cpp
+├─ src/
 
-|  |main.cpp
+│   ├─ cert.cpp
 
-|.gitignore
+│   ├─ Temp.cpp
 
-|platformio.ini
+│   ├─ Smoke.cpp
+
+│   ├─ RFID.cpp
+
+│   ├─ Moisture.cpp
+
+│   ├─ MqttManager.cpp
+
+│   └─ main.cpp
+
+│
+
+├─ .gitignore
+
+├─ platformio.ini
+
+└─ README.md
 
 ---
 
