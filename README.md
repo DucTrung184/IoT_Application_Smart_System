@@ -73,14 +73,14 @@ Tất cả các khối chức năng đều có thể điều khiển từ xa th�
 
 ## 3. Mô hình ngoài đời
 
-![Hệ thống thực tế](link_anh_cua_ban_o_day)  
+![Hệ thống thực tế](image/Raw_system.jpg)  
 > Hình ảnh minh họa mô hình nhà thông minh với các linh kiện được lắp đặt trên bảng thử nghiệm.
 
 ---
 
 ## 4. Giao diện Dashboard
 
-![Dashboard Node-RED](link_anh_dashboard_o_day)  
+![Dashboard Node-RED](image/Dashboard.png)  
 > Giao diện Node-RED hiển thị các khối chức năng, trạng thái thiết bị và công tắc điều khiển.
 
 ---
