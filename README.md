@@ -96,41 +96,77 @@ Tất cả các khối chức năng đều có thể điều khiển từ xa th�
 ## 6. Cấu trúc folder dự án
 
 │
+
 ├─ data/
+
 │   └─ emqx_ca.crt
+
 │
+
 ├─ images/
+
 │   ├─ system.png
+
 │   └─ dashboard.png
+
 │
+
 ├─ include/
+
 │   ├─ cert.h
+
 │   ├─ Temp.h
+
 │   ├─ Smoke.h
+
 │   ├─ RFID.h
+
 │   ├─ Moisture.h
+
 │   └─ MqttManager.h
+
 │
+
 ├─ Library/
+
 │   └─ Necessary_library.txt
+
 │
+
 ├─ node-red_flow/
+
 │   ├─ Smoke.txt
+
 │   ├─ Temp.txt
+
 │   ├─ RFID.txt
+
 │   └─ Moisture.txt
+
 │
+
 ├─ src/
+
 │   ├─ cert.cpp
+
 │   ├─ Temp.cpp
+
 │   ├─ Smoke.cpp
+
 │   ├─ RFID.cpp
+
 │   ├─ Moisture.cpp
+
 │   ├─ MqttManager.cpp
+
 │   └─ main.cpp
+
 │
+
 ├─ .gitignore
+
 ├─ platformio.ini
+
 └─ README.md
 
 ---
