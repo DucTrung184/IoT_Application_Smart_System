@@ -75,6 +75,7 @@ Tất cả các khối chức năng đều có thể điều khiển từ xa th�
 
 ![Hệ thống thực tế](image/Raw_system.jpg)  
 > Hình ảnh minh họa mô hình nhà thông minh với các linh kiện được lắp đặt trên bảng thử nghiệm.
+> Các bạn có thể xem một số demo minh họa trong folder demo.
 
 ---
 
@@ -110,6 +111,16 @@ Tất cả các khối chức năng đều có thể điều khiển từ xa th�
 │   └─ dashboard.png
 
 │
+
+├─ demo/
+
+│   ├─ fan.mp4
+
+│   ├─ pump.mp4
+
+│   ├─ mq2.mp4
+
+│   └─ RFID.mp4
 
 ├─ include/
 
